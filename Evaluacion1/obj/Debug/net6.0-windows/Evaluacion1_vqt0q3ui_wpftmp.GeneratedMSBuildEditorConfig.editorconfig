@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net6.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Evaluacion1_vqt0q3ui_wpftmp
+build_property.ProjectDir = C:\Users\phuel\Desktop\Iplacex\Bimestre 9\PROGRAMACIÓN DE COMPONENTES DE ESCRITORIO\Semana 2\Ev1\Evaluacion1\Evaluacion1\

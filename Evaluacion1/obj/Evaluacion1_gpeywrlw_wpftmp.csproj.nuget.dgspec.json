@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\phuel\\Desktop\\Iplacex\\Bimestre 9\\PROGRAMACIÓN DE COMPONENTES DE ESCRITORIO\\Semana 2\\Ev1\\Evaluacion1\\Evaluacion1\\Evaluacion1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\phuel\\Desktop\\Iplacex\\Bimestre 9\\PROGRAMACIÓN DE COMPONENTES DE ESCRITORIO\\Semana 2\\Ev1\\Evaluacion1\\Evaluacion1\\Evaluacion1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\phuel\\Desktop\\Iplacex\\Bimestre 9\\PROGRAMACIÓN DE COMPONENTES DE ESCRITORIO\\Semana 2\\Ev1\\Evaluacion1\\Evaluacion1\\Evaluacion1.csproj",
+        "projectName": "Evaluacion1",
+        "projectPath": "C:\\Users\\phuel\\Desktop\\Iplacex\\Bimestre 9\\PROGRAMACIÓN DE COMPONENTES DE ESCRITORIO\\Semana 2\\Ev1\\Evaluacion1\\Evaluacion1\\Evaluacion1.csproj",
+        "packagesPath": "C:\\Users\\phuel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\phuel\\Desktop\\Iplacex\\Bimestre 9\\PROGRAMACIÓN DE COMPONENTES DE ESCRITORIO\\Semana 2\\Ev1\\Evaluacion1\\Evaluacion1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\phuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
